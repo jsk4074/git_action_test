@@ -41,5 +41,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: v1
+          tags: jsk4074/git-test:v1
           labels: v1-alpha
